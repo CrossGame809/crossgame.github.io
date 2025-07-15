@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Benim Sitem</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Hoş geldin!</h1>
+    <p>Bu benim ilk GitHub Pages sitem 🌟</p>
+  </body>
+</html>
